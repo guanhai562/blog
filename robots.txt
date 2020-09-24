@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://120.76.132.224:443/sitemap.xml

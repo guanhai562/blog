@@ -1,0 +1,44 @@
+<?xml-stylesheet type="text/xsl" href="http://120.76.132.224:443/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://120.76.132.224:443/post/10%E5%88%86%E9%92%9F%E5%B0%B1%E8%83%BD%E5%AD%A6%E4%BC%9A%E7%9A%84%E5%B0%86%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E6%8F%90%E9%AB%98/</loc>
+    <lastmod>2020-09-16T20:23:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://120.76.132.224:443/post/first/</loc>
+    <lastmod>2020-09-16T20:23:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://120.76.132.224:443/post/</loc>
+    <lastmod>2020-09-16T20:23:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://120.76.132.224:443/</loc>
+    <lastmod>2020-09-16T20:23:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://120.76.132.224:443/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://120.76.132.224:443/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
